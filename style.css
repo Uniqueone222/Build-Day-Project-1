@@ -1,0 +1,10 @@
+body{
+    text-decoration: solid;
+    color: white;
+    text-align: center;
+    background-color:blue;
+}
+textarea{
+    width: 400px;
+    height: 400px;
+}
