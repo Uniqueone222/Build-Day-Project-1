@@ -2,7 +2,7 @@ body{
     text-decoration: solid;
     color: white;
     text-align: center;
-    background-color:blue;
+    background-image: linear-gradient(green,red);
 }
 textarea{
     width: 400px;
